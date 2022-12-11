@@ -1,0 +1,10 @@
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\курсовая по БД\WinFormApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
